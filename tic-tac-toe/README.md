@@ -36,7 +36,7 @@ The app will be available at **http://localhost:3000/**.
 
 ## 📸 Screenshots
 ### Game UI
-![Game UI](tic-tac-toe/Screenshots/tic-tac-toe-01-ss.png)
+![Game UI](/Screenshots/tic-tac-toe-01-ss.png)
 
 ### Game Play
 ![Game Play](tic-tac-toe/Screenshots/tic-tac-toe-02-ss.png)
