@@ -36,10 +36,10 @@ The app will be available at **http://localhost:3000/**.
 
 ## 📸 Screenshots
 ### Game UI
-![Game UI](/Screenshots/tic-tac-toe-01-ss.png)
+![Game UI](Screenshots/tic-tac-toe-01-ss.png)
 
 ### Game Play
-![Game Play](tic-tac-toe/Screenshots/tic-tac-toe-02-ss.png)
+![Game Play](Screenshots/tic-tac-toe-02-ss.png)
 
 ## 📌 How to Play?
 1. Two players take turns clicking on a square.
